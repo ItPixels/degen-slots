@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Degen Slots",
+    "iconUrl": "https://degen-slots.vercel.app/icon.png",
+    "homeUrl": "https://degen-slots.vercel.app",
+    "imageUrl": "https://degen-slots.vercel.app/og.png",
+    "buttonTitle": "🎰 Play",
+    "splashImageUrl": "https://degen-slots.vercel.app/splash.png",
+    "splashBackgroundColor": "#04040a",
+    "webhookUrl": "https://degen-slots.vercel.app/api/webhook"
+  }
+}
