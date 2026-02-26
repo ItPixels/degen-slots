@@ -4,15 +4,22 @@
     "payload": "",
     "signature": ""
   },
-  "frame": {
+  "miniapp": {
     "version": "1",
     "name": "Degen Slots",
-    "iconUrl": "https://degen-slots.vercel.app/icon.png",
     "homeUrl": "https://degen-slots.vercel.app",
-    "imageUrl": "https://degen-slots.vercel.app/og.png",
-    "buttonTitle": "🎰 Play",
+    "iconUrl": "https://degen-slots.vercel.app/icon.png",
     "splashImageUrl": "https://degen-slots.vercel.app/splash.png",
     "splashBackgroundColor": "#04040a",
-    "webhookUrl": "https://degen-slots.vercel.app/api/webhook"
+    "subtitle": "Free-to-play crypto slots",
+    "description": "Free-to-play crypto slot machine. Base L2 vibes. Spin and win.",
+    "primaryCategory": "games",
+    "tags": ["games", "crypto", "slots", "base"],
+    "tagline": "Spin on Base",
+    "heroImageUrl": "https://degen-slots.vercel.app/og.png",
+    "screenshotUrls": [],
+    "ogTitle": "Degen Slots",
+    "ogDescription": "Free-to-play crypto slot machine on Base.",
+    "ogImageUrl": "https://degen-slots.vercel.app/og.png"
   }
 }
